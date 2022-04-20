@@ -26,7 +26,7 @@ The objective of this project is to analyse the dataset and come up with a linea
 
 ## Conclusions
 
-- temperature, weathersit, and year are the imporatnt features that significantly impact the demand of shared bikes.
+- humudity, weathersit, and season, yeart are the imporatnt features that significantly impact the demand of shared bikes.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
